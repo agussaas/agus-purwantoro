@@ -2,7 +2,7 @@ import { UserProfile } from "../types";
 
 export const mockUserProfile: UserProfile = {
   name: "Agus Purwantoro",
-  bio: "aguspurwantoro.com",
+  bio: "Purwantoro.com",
   avatar: "/images/avatar.png",
   links: [
     {
